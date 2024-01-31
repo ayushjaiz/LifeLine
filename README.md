@@ -7,8 +7,8 @@ This app is used to help the users who want Organ/Blood in urgent time at curren
 1 Hospitals/User data will be safe and confidential</br>
 2 Notifies for the ongoing as well as upcoming blood camps</br>
 3 Get the update on one click</br>
-4 Track incoming user</br>
-5 Live chat feature avaliable
+4 Track all incoming users</br>
+5 Live chat support avaliable
 
 # Instruction to run the code
 
@@ -28,7 +28,7 @@ And You are good to go !!
 # Instruction to run app on phone
 
 1 Open Expo app</br>
-2 run given url below qr</br>
+2 Run given url below QR</br>
 3 Yay App is Live!!
 
 # Some App Glimpse
