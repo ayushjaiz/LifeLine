@@ -4,21 +4,21 @@ This app is used to help the users who want Organ/Blood in urgent time at curren
 
 # Key Features
 
-1 Hospitals/User data will be safe and confidential</br>
-2 Notifies for the ongoing as well as upcoming blood camps</br>
-3 Get the update on one click</br>
-4 Track all incoming users</br>
-5 Live chat support avaliable
+<ul>
+<li>Hospitals/User data will be safe and confidential</li>
+<li>Notifies for the ongoing as well as upcoming blood camps</li>
+<li>Get the update on one click</li>
+<li>Track all incoming users</li>
+<li>Live chat support avaliable<li>
 
 # Instruction to run the code
 
-<ul>
-<li>Open terminal write command (git clone https://github.com/ayushjaiz/LifeLine)</li>
-<li>open folder</li>
-<li>Terminal command (cd Frontend)</li>
-<li>Terminal command (npm install)</li>
-<li>Terminal command (npm start)</li>
-</ul>
+1 Open terminal write command (git clone https://github.com/ayushjaiz/LifeLine)</br>
+2 open folder</br>
+3 Terminal command (cd Frontend)</br>
+4 Terminal command (npm install)</br>
+5 Terminal command (npm start)</br>
+</br>
 </br>
 Qr code will be available on the terminal</br>
 Download Expo app from playstore scan the Qr code </br>
